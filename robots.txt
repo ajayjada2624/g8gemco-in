@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://g8gi.in/sitemap.xml
+Sitemap: https://g8gem.co.in/sitemap.xml
